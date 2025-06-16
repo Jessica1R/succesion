@@ -8,6 +8,7 @@ import edu.unl.cc.succession.domain.Successionable;
  * Jessica Rivas
  * Steeven Pardo
  * Juan Calopino
+ * Ana Panamito
  */
 public class CalculatePrimeNumber implements Successionable {
 
