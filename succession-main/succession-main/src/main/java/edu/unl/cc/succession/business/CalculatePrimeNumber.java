@@ -4,12 +4,14 @@ import edu.unl.cc.succession.domain.Successionable;
 
 /**
  * @author
- * Mark G[onzales
+ * Mark Gonzalez
  * Jessica Rivas
  * Steeven Pardo
  * Juan Calopino
  * Ana Panamito
+ Jostin Vásquez
  */
+
 public class CalculatePrimeNumber implements Successionable {
 
     private int terms; // Número de términos de la serie
